@@ -1,4 +1,4 @@
-import face from "../../public/images/mine.jpg";
+import face from "../images/mine.jpg";
 
 const Author = () => {
   return (

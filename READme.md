@@ -1,7 +1,7 @@
 # Chat Application
   This application built using Vite, ReactJS & Tailwind CSS.
   
-  <!-- ![s2](./public/Screenshot%20(174).png) -->
+  ![s2](./public/images/Screenshot%20(193).png)
    
 # Installation
 

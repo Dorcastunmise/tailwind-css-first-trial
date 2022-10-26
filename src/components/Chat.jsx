@@ -1,4 +1,4 @@
-import photo from "../../public/images/logo.jpg";
+import photo from "../images/logo.jpg";
 
 const Chat = () => {
   return (
